@@ -1,0 +1,15 @@
+#C
+COLOR_BLACK = (00,00,00)
+COLOR_WHITE = (255,255,255)
+COLOR_GREY = (128,128,128)
+
+#M
+MENU_OPTION = ('NEW GAME 1P',
+               'NEW GAME 2P - COPERATIVE',
+               'NEW GAME 2P - COMPETITIVE',
+               'SCORE',
+               'EXIT')
+
+#W
+WIN_WIDTH = 806
+WIN_HEIGTH = 605
